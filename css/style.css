@@ -60,7 +60,8 @@ img{
 
 }
 
-#educationSection{
+#educationSection, #education, #p1, #p2, #ul1, #ul2, #ul3, #ul4, #ul5, #ul6{
+  
   float:right;
 }
 
