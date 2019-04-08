@@ -80,10 +80,17 @@ img{
 #softSkillsSection{
 
   float:right;
-  
+
 
 }
 
+#pimg1{
+  float:left;
+}
+
+#pimg{
+  float:right;
+}
 
 #resumeh1{
   text-align: center;
