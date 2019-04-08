@@ -67,6 +67,12 @@ img{
 }
 
 
+#educationSection{
+
+  float:right;
+  margin-bottom:20px;
+}
+
 #resumeh1{
   text-align: center;
   text-decoration: underline overline;
