@@ -60,6 +60,10 @@ img{
 
 }
 
+#education{
+  float:right;
+}
+
 #resumeBody{
   text-align: left;
   background-color:#ffe5f9;
