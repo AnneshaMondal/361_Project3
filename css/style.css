@@ -1,100 +1,93 @@
 #indexBody{
-  background-color: #ffccd2;
-  background-size:cover;
-  text-align: center;
-  margin:15px;
-
+     background-color: #ffccd2;
+     background-size:cover;
+     text-align: center;
+     margin:15px;
 }
-
-nav#navigation{
-   background-color:inherit;
-   margin: 0 auto;
-   font-family: "Courier New", Courier;
-   text-align: center;
-   width:80%;
-
- }
-
-nav#navigation ul{
-  list-style: none;
-  padding:0;
+ nav#navigation{
+     background-color:inherit;
+     margin: 0 auto;
+     font-family: "Courier New", Courier;
+     text-align: center;
+     width:80%;
 }
-
-nav#navigation ul li
-{
-  float:inherit;
-  display: inline;
+ nav#navigation ul{
+     list-style: none;
+     padding:0;
 }
-
-nav#navigation ul li a {
-  display:inline-block;
-  padding:20px;
-  color:gray;
-  text-decoration: none;
-  background-color:#ffe6e9;
-  color:#ff6678;
-  font-weight: bold;
-  text-align: center;
-  }
-
-nav#navigation ul li a:hover
-{
-  color:gray;
+ nav#navigation ul li {
+     float:inherit;
+     display: inline;
 }
-
-
-
-img{
-		width: 30%;
-		height: 30%;
-		display: block;
-		margin-right: auto;
-		margin-left: auto;
+ nav#navigation ul li a {
+     display:inline-block;
+     padding:20px;
+     color:gray;
+     text-decoration: none;
+     background-color:#ffe6e9;
+     color:#ff6678;
+     font-weight: bold;
+     text-align: center;
 }
-
-#education, #experience, #tskills, #sskills{
-  font-family: "Times New Roman", Times, serif;
-  text-align: left;
-  text-decoration: underline overline;
-  text-decoration-color: #ff808e;
-
+ nav#navigation ul li a:hover {
+     color:gray;
 }
-
-#resumeBody{
-  text-align: left;
-  background-color:#ffe5f9;
-
+ img{
+     width: 30%;
+     height: 30%;
+     display: block;
+     margin-right: auto;
+     margin-left: auto;
 }
-
-
-#resumeh1{
-  text-align: center;
-  text-decoration: underline overline;
-  text-decoration-color: #ff334b
+ #education, #experience, #tskills, #sskills{
+     font-family: "Times New Roman", Times, serif;
+     text-align: left;
+     text-decoration: underline overline;
+     text-decoration-color: #ff808e;
 }
-
-#resumeIntro, #resumeEmail{
-  text-align:center;
-  font-weight: bold;
-  margin-bottom: 50px;
+ #resumeBody{
+     text-align: left;
+     background-color:#ffe5f9;
 }
-
+ #technicalSkillSection{
+     margin-top: 200px;
+}
+ #educationSection{
+     float:right;
+     margin-bottom:1000px;
+}
+ #softSkillsSection.absolute{
+     position: relative;
+     right:400px;
+}
+ #pimg1{
+     float:left;
+}
+ #pimg{
+     float:right;
+}
+ #resumeh1{
+     text-align: center;
+     text-decoration: underline overline;
+     text-decoration-color: #ff334b
+}
+ #resumeIntro, #resumeEmail{
+     text-align:center;
+     font-weight: bold;
+     margin-bottom: 50px;
+}
 /*-- add margin to top and/or bottom to seperate sections */
-
-
-
-#projectsBody{
-  background-color: #ffccd2;
-  background-size:cover;
-  text-align: center;
-  margin:15px;
+ #projectsBody{
+     background-color: #ffccd2;
+     background-size:cover;
+     text-align: center;
+     margin:15px;
 }
-
-#projectHeading{
-  text-align: center;
+ #projectHeading{
+     text-align: center;
 }
-
-#vid{
-  width: 100px;
-  height: 150px;
+ #vid{
+     width: 250px;
+     height: 250px;
 }
+ 
