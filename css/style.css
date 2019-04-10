@@ -77,9 +77,10 @@ margin-top: 200px;
 }
 
 
-#softSkillsSection{
-  margin-left: 500px;
-  float:right;
+#softSkillsSection.absolute{
+  position: relative;
+  right:400px;
+
 
 
 
