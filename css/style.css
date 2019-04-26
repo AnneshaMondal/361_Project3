@@ -102,17 +102,20 @@
 #resumeBody{
   text-align: left;
   background-color:#e5cee0;
+  margin-left: auto;
 }
 
 #educationSection{
   float:right;
   margin-bottom:1000px;
   background-color: #a0909c;
+  margin: auto;
 }
 
 #technicalSkillSection{
   margin-top: 200px;
   background: #a0909c;
+  margin: auto;
 
 }
 
@@ -120,17 +123,50 @@
   position: relative;
   right:400px;
   background-color: #a0909c;
+  margin-left: auto;
 }
 
 #experience{
   background-color: #a0909c;
 
+
+}}
+@media only screen and (min-width: 1000px){
+  #resumeBody{
+    text-align: left;
+    background-color:#EDEC9D;
+    margin-left: auto;
+  }
+
+  #educationSection{
+    float:right;
+    margin-bottom:1000px;
+    background-color: #EDEC9D;
+    font-family: "Courier New", Courier;
+    margin: auto;
+  }
+
+  #technicalSkillSection{
+    margin-top: 200px;
+    background: #EDEC9D;
+    font-family: "Courier New", Courier;
+    margin: auto;
+
+  }
+
+  #softSkillsSection.absolute{
+    position: relative;
+    right:400px;
+    background-color: #EDEC9D;
+    font-family: "Courier New", Courier;
+    margin-left: auto;
+  }
+
+  #experience{
+    background-color: #EDEC9D;
+    font-family: "Courier New", Courier;
+
 }
 
-
-
-
-
 }
-
 }
